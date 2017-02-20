@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTDBot", "LTDBot\LTDBot.csproj", "{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTDBotTests", "LTDBotTests\LTDBotTests.csproj", "{232F3A37-9809-4A9C-BE47-C4D9F60475F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{232F3A37-9809-4A9C-BE47-C4D9F60475F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232F3A37-9809-4A9C-BE47-C4D9F60475F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232F3A37-9809-4A9C-BE47-C4D9F60475F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232F3A37-9809-4A9C-BE47-C4D9F60475F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.riganti.cz:8080/tfs/riganti
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LTDBot\\LTDBot.csproj
+		SccProjectName1 = LTDBot
+		SccLocalPath1 = LTDBot
+		SccProjectUniqueName2 = LTDBotTests\\LTDBotTests.csproj
+		SccProjectName2 = LTDBotTests
+		SccLocalPath2 = LTDBotTests
+	EndGlobalSection
+EndGlobal
